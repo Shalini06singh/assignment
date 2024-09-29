@@ -9,7 +9,7 @@ export default function Profile() {
                     Name
                 </div>
                 <div>
-                    Deepak Singh Gusain
+                    Shalini Singh
                 </div>
             </li>
             <li class="list-group-item d-flex justify-content-between">
@@ -35,7 +35,7 @@ export default function Profile() {
                     Address
                 </div>
                 <div>
-                    A 43 Noida sector 16 UP 201301
+                   Lucknow
                 </div>
             </li>
         </ul>

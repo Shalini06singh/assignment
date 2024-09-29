@@ -10,7 +10,7 @@ export default function Header() {
             <div className="col-lg-7">
               <div className="float-left">
                 <p>Phone: +01 256 25 235</p>
-                <p>email: info@eiser.com</p>
+                <p>email: e-commerce@eiser.com</p>
               </div>
             </div>
             <div className="col-lg-5">
